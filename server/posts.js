@@ -5,7 +5,7 @@ let db = {}
 const defaultData = {
   "8xf0y6ziyjabvozdd253nd": {
     id: '8xf0y6ziyjabvozdd253nd',
-    timestamp: '24/06/2018',
+    timestamp: 1529871056439,
     title: 'Check it out the new product that Skip the dishes has launched',
     body: 'Everyone says that it is amazing...',
     author: 'belmonte',
@@ -16,7 +16,7 @@ const defaultData = {
   },
   "6ni6ok3ym7mf1p33lnez": {
     id: '6ni6ok3ym7mf1p33lnez',
-    timestamp: '24/06/2018',
+    timestamp: 1529871056439,
     title: 'Skip the dishes has reached out millions of customers in many countries.',
     body: 'Check in our website to see more details...',
     author: 'belmonte',

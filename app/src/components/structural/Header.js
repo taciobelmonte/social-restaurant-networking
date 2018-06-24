@@ -3,10 +3,6 @@ import {Link} from 'react-router-dom';
 import {connect} from 'react-redux';
 import {searchPost} from './../../actions';
 
-const styles = {
-    marginLeft: '-70px'
-};
-
 class Header extends Component {
 
     render() {
