@@ -1,4 +1,4 @@
-##Social Restaurant Networking
+## Social Restaurant Networking
 
 ## How to get started
 
@@ -12,7 +12,7 @@ To setup this app, you will need to follow the instructions below:
 
 It's done! You should have Social Restaurant Networking running straight way...
 
-##Technologies
+## Technologies
 To build this app, I decided to use the following technologies:
 
 -React
@@ -23,7 +23,7 @@ To build this app, I decided to use the following technologies:
 -Nodejs
 -Express.js
 
-##Architecture
+## Architecture
 
 The decision to create this small app was thinking in a situation where people that uses Skip the dishes services want to interact between them, sharing knowledge, news, comments and also being able to vote if they like some post/comments.
 
@@ -39,7 +39,7 @@ In the sidebar has also a search input, which is possible to search any post by 
 
 Redux has been used to manipulate all that used in the application. A store has been designed for this purpose, allowing data access through each component, instead of drilling data via props from high orders components to its children.
 
-##Screenshots
+## Screenshots
 
 
 ##Limitations
