@@ -1,0 +1,19 @@
+{
+  "name": "server-boilerplate",
+  "version": "0.0.1",
+  "description": "A boilerplate for a server running with express.js",
+  "main": "index.js",
+  "keywords": [
+    "food",
+    "restaurants",
+    "couriers"
+  ],
+  "author": "Tacio Belmonte",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "clone": "^2.1.1"
+  }
+}
