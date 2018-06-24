@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6938d41f-d54f-403c-bebe-be4b48144ea1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/components/structural/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/structural/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/comments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/posts.js" afterDir="false" />
-    </list>
+    <list default="true" id="6938d41f-d54f-403c-bebe-be4b48144ea1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +50,8 @@
       <file leaf-file-name="Header.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/components/structural/Header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="465">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -224,12 +219,12 @@
       <workItem from="1529851133835" duration="3351000" />
       <workItem from="1529857632385" duration="2555000" />
       <workItem from="1529865345065" duration="491000" />
-      <workItem from="1529866350142" duration="2553000" />
+      <workItem from="1529866350142" duration="2705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9672000" />
+    <option name="totallyTimeSpent" value="9824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="55" width="1011" height="676" extended-state="0" />
@@ -554,8 +549,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/components/structural/Header.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="465">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
