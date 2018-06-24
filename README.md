@@ -40,7 +40,11 @@ In the sidebar has also a search input, which is possible to search any post by 
 Redux has been used to manipulate all that used in the application. A store has been designed for this purpose, allowing data access through each component, instead of drilling data via props from high orders components to its children.
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/taciobelmonte/social-restaurant-networking/master/app/public/screenshots/screen.jpg)
+![alt text](https://raw.githubusercontent.com/taciobelmonte/social-restaurant-networking/master/app/public/screenshots/screen1.jpg)
+
+![alt text](https://raw.githubusercontent.com/taciobelmonte/social-restaurant-networking/master/app/public/screenshots/screen2.jpg)
+
+![alt text](https://raw.githubusercontent.com/taciobelmonte/social-restaurant-networking/master/app/public/screenshots/screen3.jpg)
 
 ## Limitations
 This app is a limited version. Due to the small time, I could not expand more, working better in the UI or also creating an authentication system for people to log in their accounts.
