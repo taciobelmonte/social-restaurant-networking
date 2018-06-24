@@ -7,7 +7,7 @@ const defaultData = {
   "894tuq4ut84ut8v4t8wun89g": {
     id: '894tuq4ut84ut8v4t8wun89g',
     parentId: "8xf0y6ziyjabvozdd253nd",
-    timestamp: 1529848800,
+    timestamp: 1467166872636,
     body: 'That is so cool!',
     author: 'belmonte',
     voteScore: 6,
@@ -17,7 +17,7 @@ const defaultData = {
   "8tu4bsun805n8un48ve89": {
     id: '8tu4bsun805n8un48ve89',
     parentId: "8xf0y6ziyjabvozdd253nd",
-    timestamp: 1529848800,
+    timestamp: 1467166872634,
     body: 'I will definitely go there!',
     author: 'tacio',
     voteScore: 80,
@@ -80,11 +80,11 @@ function vote (token, id, option) {
     comment = comments[id]
     switch(option) {
         case "upVote":
-            comment.voteScore = comment.voteScore + 1
-            break
+            comment.voteScore = comment.voteScore + 1;
+            break;
         case "downVote":
-            comment.voteScore = comment.voteScore - 1
-            break
+            comment.voteScore = comment.voteScore - 1;
+            break;
         default:
             console.log(`comments.vote received incorrect parameter: ${option}`)
     }
